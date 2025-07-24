@@ -17,11 +17,17 @@ These insights aim to support farmers, agribusinesses, and policymakers in optim
 🔧 Technologies Used
 
 | Tool/Platform | Purpose | 
+
 | Power BI | Dashboard development and visualization | 
+
 | Python | Data manipulation using Pandas, NumPy | 
+
 | Matplotlib & Seaborn | Statistical plotting and charts | 
+
 | SQL | Data querying and transformation | 
+
 | Jupyter Notebook | Data exploration and testing | 
+
 | VS Code | Development and coding environment | 
 
 
