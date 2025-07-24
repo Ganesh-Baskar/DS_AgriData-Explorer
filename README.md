@@ -15,6 +15,7 @@ These insights aim to support farmers, agribusinesses, and policymakers in optim
 ✅ Interactive Visualizations – Enhancing interpretation through dynamic charts and dashboards
 
 🔧 Technologies Used
+
 | Tool/Platform | Purpose | 
 | Power BI | Dashboard development and visualization | 
 | Python | Data manipulation using Pandas, NumPy | 
