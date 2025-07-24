@@ -32,7 +32,6 @@ These insights aim to support farmers, agribusinesses, and policymakers in optim
 
 | Jupyter Notebook | Data exploration and testing | 
 
-| VS Code | Development and coding environment | 
 
 📈 Data Analysis Workflow
 
