@@ -3,6 +3,7 @@
 AgroData Explorer offers deep insights into India’s crop cultivation, land utilization, and yield per hectare across various crops. This project applies Exploratory Data Analysis (EDA) and interactive visualization techniques to help stakeholders make informed decisions.
 
 📌 Project Overview
+
 The goal of this project is to analyze agricultural datasets to uncover patterns related to:
 - Crop production trends
 - Impact of rainfall and soil conditions
@@ -10,8 +11,11 @@ The goal of this project is to analyze agricultural datasets to uncover patterns
 These insights aim to support farmers, agribusinesses, and policymakers in optimizing resources and strategies.
 
 📊 Key Features
+
 ✅ Data Cleaning & Preprocessing – Addressing missing values, duplicates, and inconsistencies
+
 ✅ Crop Yield Analysis – Tracking production trends across years, regions, and crop types
+
 ✅ Interactive Visualizations – Enhancing interpretation through dynamic charts and dashboards
 
 🔧 Technologies Used
@@ -30,9 +34,8 @@ These insights aim to support farmers, agribusinesses, and policymakers in optim
 
 | VS Code | Development and coding environment | 
 
-
-
 📈 Data Analysis Workflow
+
 - Data Collection
 - Gather agricultural data from CSV files, databases, or APIs
 - Data Cleaning
